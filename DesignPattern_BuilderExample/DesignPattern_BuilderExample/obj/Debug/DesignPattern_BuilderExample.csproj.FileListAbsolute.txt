@@ -1,0 +1,16 @@
+C:\Users\Sıla Şirin\Desktop\DesignPattern_BuilderExample\DesignPattern_BuilderExample\bin\Debug\DesignPattern_BuilderExample.exe.config
+C:\Users\Sıla Şirin\Desktop\DesignPattern_BuilderExample\DesignPattern_BuilderExample\bin\Debug\DesignPattern_BuilderExample.exe
+C:\Users\Sıla Şirin\Desktop\DesignPattern_BuilderExample\DesignPattern_BuilderExample\bin\Debug\DesignPattern_BuilderExample.pdb
+C:\Users\Sıla Şirin\Desktop\DesignPattern_BuilderExample\DesignPattern_BuilderExample\obj\Debug\DesignPattern_BuilderExample.csproj.AssemblyReference.cache
+C:\Users\Sıla Şirin\Desktop\DesignPattern_BuilderExample\DesignPattern_BuilderExample\obj\Debug\DesignPattern_BuilderExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sıla Şirin\Desktop\DesignPattern_BuilderExample\DesignPattern_BuilderExample\obj\Debug\DesignPattern_BuilderExample.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\DesignPattern_BuilderExample\DesignPattern_BuilderExample\obj\Debug\DesignPattern_BuilderExample.exe
+C:\Users\Sıla Şirin\Desktop\DesignPattern_BuilderExample\DesignPattern_BuilderExample\obj\Debug\DesignPattern_BuilderExample.pdb
+C:\Users\Sıla Şirin\Desktop\Odevler\DesignPattern_BuilderExample\DesignPattern_BuilderExample\bin\Debug\DesignPattern_BuilderExample.exe.config
+C:\Users\Sıla Şirin\Desktop\Odevler\DesignPattern_BuilderExample\DesignPattern_BuilderExample\bin\Debug\DesignPattern_BuilderExample.exe
+C:\Users\Sıla Şirin\Desktop\Odevler\DesignPattern_BuilderExample\DesignPattern_BuilderExample\bin\Debug\DesignPattern_BuilderExample.pdb
+C:\Users\Sıla Şirin\Desktop\Odevler\DesignPattern_BuilderExample\DesignPattern_BuilderExample\obj\Debug\DesignPattern_BuilderExample.csproj.AssemblyReference.cache
+C:\Users\Sıla Şirin\Desktop\Odevler\DesignPattern_BuilderExample\DesignPattern_BuilderExample\obj\Debug\DesignPattern_BuilderExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sıla Şirin\Desktop\Odevler\DesignPattern_BuilderExample\DesignPattern_BuilderExample\obj\Debug\DesignPattern_BuilderExample.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\Odevler\DesignPattern_BuilderExample\DesignPattern_BuilderExample\obj\Debug\DesignPattern_BuilderExample.exe
+C:\Users\Sıla Şirin\Desktop\Odevler\DesignPattern_BuilderExample\DesignPattern_BuilderExample\obj\Debug\DesignPattern_BuilderExample.pdb
